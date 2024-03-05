@@ -5,3 +5,4 @@ ports:
     - name: Web App
       port: 8080
       protocol: http
+      visibility: public
